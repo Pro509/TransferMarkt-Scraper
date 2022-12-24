@@ -4,4 +4,4 @@ Scraping tool used to conduct research on the impact of team diversity on perfor
 
 Paper authored by Daria Arena, Lorenzo Bernardini, Pritish Dugar, and Julius Kuempers. 
 
-Acknowledgments to our supervisor Dr. Francesco Lissoni.
+Acknowledgments to our professor and supervisor Dr. Francesco Lissoni.
