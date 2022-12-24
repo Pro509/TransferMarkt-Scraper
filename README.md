@@ -1,4 +1,4 @@
-# TransferMrkt-Scraper
+# TransferMarkt-Scraper
 
 Scraping tool used to research the impact of team diversity on performance in the Serie A Italian football league. 
 
